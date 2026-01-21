@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore Python compiled files (junk files)
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore VS Code settings (optional, keeps personal settings local)
+.vscode/
