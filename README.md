@@ -1,16 +1,12 @@
-# Python Practice Projects
+# 100 Days of Python – Angela Yu Course
 
-Purpose:
-Practice Python fundamentals and problem solving.
+This repo contains my solutions and practice exercises for the **100 Days of Python** course by **Angela Yu** on **Udemy**.  
 
-Topics Covered:
-- Variables & data types
-- Loops & conditions
-- Functions
-- Basic problem solving
+Projects are organized by **Sections 1–10**, each containing **10 days of projects** following the course curriculum.
 
-Tech Used:
-- Python
 
-Status:
-In progress
+
+
+
+
+
